@@ -1,0 +1,12 @@
+.centered {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline;
+  width: 500px;
+}
+.text-inside-grid {
+
+  font-weight: bolder;
+}
